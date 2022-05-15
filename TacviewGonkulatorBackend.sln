@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TacviewGonkulatorBackend", "TacviewGonkulatorBackend\TacviewGonkulatorBackend.csproj", "{E8782886-BCC3-4E12-998D-DCBBD1AC871F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TacviewGonkulatorBackend.Consumer", "TacviewGonkulatorBackend.Consumer\TacviewGonkulatorBackend.Consumer\TacviewGonkulatorBackend.Consumer.csproj", "{CB2DF5CC-E6CA-44F6-8AF1-88A64662DA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TacviewGonkulatorBackend.Classes", "TacviewGonkulatorBackend.Classes\TacviewGonkulatorBackend.Classes\TacviewGonkulatorBackend.Classes.csproj", "{0029B4BD-DB08-4539-97E0-26449C7AB325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8782886-BCC3-4E12-998D-DCBBD1AC871F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8782886-BCC3-4E12-998D-DCBBD1AC871F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8782886-BCC3-4E12-998D-DCBBD1AC871F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8782886-BCC3-4E12-998D-DCBBD1AC871F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB2DF5CC-E6CA-44F6-8AF1-88A64662DA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2DF5CC-E6CA-44F6-8AF1-88A64662DA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2DF5CC-E6CA-44F6-8AF1-88A64662DA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2DF5CC-E6CA-44F6-8AF1-88A64662DA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0029B4BD-DB08-4539-97E0-26449C7AB325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0029B4BD-DB08-4539-97E0-26449C7AB325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0029B4BD-DB08-4539-97E0-26449C7AB325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0029B4BD-DB08-4539-97E0-26449C7AB325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
